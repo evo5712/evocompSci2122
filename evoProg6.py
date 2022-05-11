@@ -15,8 +15,7 @@ def encrypt(a):
                 secret += c
         print(f'\nWe revealed the encrpytion to be {secret}.', end = '')
         secret = ''
-        
-        
+    
 encrypt('proj6 text.txt')
 
 
