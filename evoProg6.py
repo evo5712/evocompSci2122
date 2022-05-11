@@ -1,4 +1,3 @@
-#I'm trying to get the program to decrypt VW SFWQ as, "hi eric"
 def encrypt(a):
     f = open(a, 'r')
     secret = ""
